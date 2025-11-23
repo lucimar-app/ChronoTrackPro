@@ -1,0 +1,5 @@
+{
+  "name": "ChronoTrack Pro",
+  "description": "Um gerenciador de cronômetros múltiplos com persistência, histórico e controle independente de tempo.",
+  "requestFramePermissions": []
+}
